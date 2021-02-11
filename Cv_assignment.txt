@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	
+
+			<table border="8" align="center" width="50%">
+			<tr><th><h1>CV<h1></th></tr>
+				<tr><th align="left"><h3>Summary: I am Hordoya Banik. I am now stuyding computer science in Aiub. I am currently my 9th semester. I am Really enthusiast about solving programming problem.<br><br>
+				<b><h3>Name: Hordoya Banik</b><br>
+				<img src="hridoy.jpg" align="right" width="20%" ><h3><br>
+				<b>Email : HordoyaBanik@gmail.com</b><br><br><br>
+				<b>Education : BSc CSE from AIUB</b><br><br><br>
+				<b>Education : Hsc from University laboratory college</b><br><br><br>
+				<b>Education : Ssc from U I Govt High School</b><br><br><br>
+				<b>Skills : c,c++,java,Data structure,Algorithm</b><br><br><br>
+				<b>Experiance : I have done project on Restaurant Management System in introduction to data base course. I have a simple calculator project using java. I have also solved 300 progeamming problem in codeforces.</b><br><br><br>
+				<b>courses Done : Pl1,Data Structure,Algorithm,oop1,Computer Networks,Software Engineerings</b><br><br><br>
+				<b><a href="https://github.com/hordoya">Git Hub Link</a> </b>
+
+
+
+</tr>
+</th>
+			</table>
+</body>
+</html>
