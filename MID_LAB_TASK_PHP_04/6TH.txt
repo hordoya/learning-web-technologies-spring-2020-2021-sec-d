@@ -1,0 +1,24 @@
+
+
+<?php
+$arr = array(1, 2, 3,4,5,6,7,8,90,100,110,120);
+echo"Array is";
+for($i=0;$i<12;$i++)
+{
+    echo" $arr[$i] ";
+}
+$s=4;$l=0;
+echo"Now we eanna serch $s\n";
+for($i=0;$i<12;$i++)
+{
+    if($arr[$i]==$s)
+    {
+        $l=1;
+        echo"Found";
+    }
+}
+if($l==0)
+{
+    echo"NOT FOUND";
+}
+?>   

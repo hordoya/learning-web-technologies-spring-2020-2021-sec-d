@@ -1,0 +1,17 @@
+<html>  
+<body>  
+<form method = "post">   
+Width: <input type="number" name="Total_Ammount">   
+<br><br>      
+<input type = "submit" name = "submit" value="Calculate">   
+</form>   
+</body>   
+</html>  
+<?php   
+if(isset($_POST['submit']))  
+    {   
+$w = $_POST['Total_Ammount'];   
+$e=$w*0.15;      
+echo "$e";   
+}   
+?>   

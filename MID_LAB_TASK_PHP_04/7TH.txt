@@ -1,0 +1,70 @@
+
+
+<?php
+for($i=1;$i<=3;$i++)
+{
+	while(1)
+    {
+    if($i==1)
+    {
+    echo"*\r\n";
+    break;
+    }
+    else if($i==2)
+    {
+    echo"**\r\n";
+    break;
+    }
+    else if($i==3)
+    {
+    echo"***\r\n";
+    break;
+    }
+    echo"\n";
+    }
+}
+for($i=1;$i<=3;$i++)
+{
+	while(1)
+    {
+    if($i==1)
+    {
+    echo"123\r\n";
+    break;
+    }
+    else if($i==2)
+    {
+    echo"12\r\n";
+    break;
+    }
+    else if($i==3)
+    {
+    echo"1\r\n";
+    break;
+    }
+    echo"\n";
+    }
+}
+for($i=1;$i<=3;$i++)
+{
+	while(1)
+    {
+    if($i==1)
+    {
+    echo"A\r\n";
+    break;
+    }
+    else if($i==2)
+    {
+    echo"BC\r\n";
+    break;
+    }
+    else if($i==3)
+    {
+    echo"ABC\r\n";
+    break;
+    }
+    echo"\n";
+    }
+}
+?>   
